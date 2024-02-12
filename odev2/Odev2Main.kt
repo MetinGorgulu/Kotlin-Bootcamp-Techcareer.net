@@ -2,10 +2,11 @@ package com.example.kotlinders1.nesne_tabanli_programlama.odev2
 
 fun main() {
 
+    val fonk = Odev2();
+    
     //Soru 1
     println("--------------------------------")
     val km  = 55.0
-    val fonk = Odev2();
     val mile = fonk.soru1(km)
     println("1.Soru : $mile")
     println("--------------------------------")
