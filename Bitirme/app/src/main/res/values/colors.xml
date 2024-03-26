@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="bottom_navigation_background_color">#f4f6f5</color>
+    <color name="bottom_navigation_item_color">#e1bee7e6</color>
+
+    <color name="bottom_navigation_item_selected">#3F51B5</color>
+    <color name="bottom_navigation_item_unselected">#9E9E9E</color>
+
+    <color name="yemekler_card_background">#ebf4f1</color>
+    <color name="sepet_button_background">#379570</color>
+
+</resources>

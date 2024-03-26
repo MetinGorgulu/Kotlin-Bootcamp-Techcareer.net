@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767687335485",
+    "project_id": "gurmedefteri",
+    "storage_bucket": "gurmedefteri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767687335485:android:a46787a49884daa2855454",
+        "android_client_info": {
+          "package_name": "com.example.gurmedefteri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc5HZ0e4MVAyfvUIydDuzN1xznG1KKK8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
